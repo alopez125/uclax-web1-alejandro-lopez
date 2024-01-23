@@ -1,4 +1,8 @@
+<!-- @format -->
+
 # UCLAX Web 1 Project
+
+6:33
 
 This resource is a starter project for students in the UCLAX Web 1 course.
 
