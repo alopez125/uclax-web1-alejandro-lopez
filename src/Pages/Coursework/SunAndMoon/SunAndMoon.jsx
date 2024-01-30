@@ -6,6 +6,7 @@ import { useState } from "react";
 import sunImg from "./images/sun.png";
 import moonImg from "./images/moon.png";
 
+// Javascript Layer
 const SunAndMoon = () => {
     const [imgSrc, imgSrcUpdate] = useState(moonImg);
 
