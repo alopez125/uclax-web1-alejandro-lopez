@@ -13,7 +13,6 @@ const ResponsiveDesign = () => {
 
             <div className="boxes">
                 {isMediumAndUp && <div className="box box1">1</div>}
-                <div className="box box1">1</div>
                 <div className="box box2">2</div>
                 <div className="box box3">3</div>
             </div>
