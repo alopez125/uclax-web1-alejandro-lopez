@@ -23,7 +23,7 @@ Hamburger.propTypes = {
 
 const HamburgerStyled = styled.div`
     position: absolute;
-    top: 20px;
+    top: 30px;
     right: 20px;
 
     font-size: 30px;
