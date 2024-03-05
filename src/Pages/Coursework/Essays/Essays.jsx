@@ -84,6 +84,36 @@ const Essays = () => {
                     </li>
                 </ul>
             </SingleEssay>
+            <SingleEssay
+                question={`Q5: In React, what are the different ways we can link to resources (e.g. Root Relative vs Document Relative)?`}
+            >
+                <ul>
+                    <li>
+                        <b>Root Relative:</b> Is writing links from the root of
+                        a folder (or domain.) import “../Common/css/global.scss”
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Document Relative:</b> “./ ” looking in the same
+                        directory, ../ up a directory ../../../
+                    </li>
+                </ul>
+            </SingleEssay>
+            <SingleEssay
+                question={`Q6: What is the difference between jpg, gif, png and svg images?`}
+            >
+                <ul>
+                    <li>
+                        <b>TBA</b> ...
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>TBA</b> ...
+                    </li>
+                </ul>
+            </SingleEssay>
         </EssaysStyled>
     );
 };
