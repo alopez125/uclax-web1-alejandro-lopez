@@ -105,12 +105,90 @@ const Essays = () => {
             >
                 <ul>
                     <li>
-                        <b>TBA</b> ...
+                        <b>jpg</b> stands for Joint Photographic Experts Group.
+                        Best used for photographs. Jpgs take all the information
+                        and compress it into smaller file sizes without
+                        degrading image quality.
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <b>TBA</b> ...
+                        <b>PNG</b> stands for Portable Networks Graphics (Who
+                        comes up with these names?!) and like the name implies,
+                        it’s ideal for web graphics. If you have a logo, social
+                        media graphic, illustration, etc., the png format is a
+                        good bet for retaining maximum image quality.
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Gif</b> stands for Graphics Interchange Format and
+                        it’s best known for supporting animation.
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>svg</b> stands for Scalable Vector Graphics. All the
+                        other file formats we’ve covered are raster-based,
+                        meaning they look blurry if enlarged beyond their
+                        original size. Svg files are vector-based, meaning you
+                        can scale them to any size without any loss in quality.
+                        No other file type looks as sharp as an svg.
+                    </li>
+                </ul>
+            </SingleEssay>
+            <SingleEssay
+                question={`Q7: Define the following Agile roles: Product Manager, Product Owner, Business Analyst, Scrum Master, UX Designer, Developer/Engineer, QA/SDET, and DevOps`}
+            >
+                <ul>
+                    <li>
+                        <b>Product Manager</b> transforms market research and
+                        business requirements into product vision and roadmap.
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Product Owner</b> transforms product vision and
+                        roadmap into a backlog and creates actionable
+                        development tasks.
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Business Analyst</b> analyze business needs align
+                        with business objectives
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Scrum Master</b> oversees scrum ceremonies (agile)
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>UX Designer</b> focus on user experience, user
+                        stories, prototypes
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>Developer/engineer</b> writing coed and implementing
+                        functionality of product
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>QA/SDET</b> tests the app to ensure integrity for
+                        production releases identifies bugs and severity, may
+                        also create automated tests for common flaws
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <b>DevOps</b> responsible for setting up servers to meet
+                        application needs and continuous integration and
+                        delivery (CICD) for accelerated delivery of software
+                        updates
                     </li>
                 </ul>
             </SingleEssay>
