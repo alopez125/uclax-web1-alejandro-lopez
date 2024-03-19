@@ -92,7 +92,7 @@ const FormStyled = styled.form`
         font-size: 20px;
         padding: 10px;
         width: 100%;
-        background-color: #eee;
+        background-color: wheat;
         border: solid 1px #999;
 
         &:focus {
@@ -101,7 +101,7 @@ const FormStyled = styled.form`
     }
 
     button {
-        background-color: teal;
+        background-color: brown;
         padding: 10px 5px;
         color: #fff;
         width: 150px;
@@ -112,10 +112,10 @@ const FormStyled = styled.form`
 
         &:hover,
         &:focus {
-            background-color: #015353;
+            background-color: #911b1b;
         }
         &:active {
-            background-color: #002020;
+            background-color: brown;
         }
     }
 `;

@@ -1,26 +1,26 @@
 /** @format */
 
-import image1 from "./img/Alex-Esqueda-Box-Jump.jpg";
-import image2 from "./img/Tire-Flip.jpg";
-import image3 from "./img/Kids.jpg";
+import image1 from "./img/Pastry.jpg";
+import image2 from "./img/Coffee.jpg";
+import image3 from "./img/Flowers.jpg";
 
 export const tabbedData = [
     {
         id: 1,
         image: image1,
-        title: "About",
-        text: "<p>Join a <b>community</b> of people working hard every day to live a better quality of life, and have fun doing it!  At CrossFit Decimate, we provide inclusive programming, individualized modifications, and top-trained coaches to give you the best fitness journey  to fit your lifestyle.</p>",
+        title: "Our Community",
+        text: "<p>Join a <b>community</b> of coffee lovers passionately pursuing the perfect cup, exploring diverse roasts, brewing methods, and sharing the joy of caffeinated discoveries! We offer a welcoming environment, expertly crafted beverages, and a space to connect with fellow enthusiasts on your flavorful journey through the world of coffee.</p>",
     },
     {
         id: 2,
         image: image2,
-        title: "Mission",
-        text: "<p>At Decimate, we believe that just like your fitness journey, nutrition is not a “one size fits all”.  Our highly trained nutrition coaches work alongside you to help you achieve your optimal health and fitness goals.  Through one-on-one coaching and personalized nutrition programming, our coaches are able to determine the best nutrition plan for you.</p>",
+        title: "Our Mission",
+        text: "<p>At Cafe Spirit, we understand that enjoying coffee is as diverse as fitness routines – there's no one-size-fits-all. Our expert baristas craft personalized coffee experiences tailored to your taste preferences and caffeine needs. With a variety of specialty brews and customizable options, we're here to fuel your day and make your coffee journey uniquely yours.</p>",
     },
     {
         id: 3,
         image: image3,
-        title: "Vision",
-        text: "<p>With our highly qualified and trained coach, Kara Smith, CrossFit Decimate is able to provide adaptive and inclusive workouts for each individual athlete, whether you are injured or working with a disability.  At CrossFit Decimate we believe that all people can workout and want to workout, they just need to be guided on how to achieve their goals.  Coach Kara offers modifications to each workout to help each athlete achieve their own level of success.  </p>",
+        title: "Our Goal",
+        text: "<p>With our dedicated and skilled barista, Kara Smith, Cafe Spirit ensures an inclusive and adaptable coffee experience for every customer, regardless of dietary restrictions or preferences. We believe that everyone should be able to enjoy their favorite coffee beverages, and Kara is here to guide you on your coffee journey. From customizing drinks to accommodate allergies or sensitivities to providing recommendations based on your taste preferences, Kara ensures that every cup is crafted to perfection for your enjoyment.  </p>",
     },
 ];

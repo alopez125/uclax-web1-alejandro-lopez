@@ -5,6 +5,7 @@ import styled from "styled-components";
 import Inset from "@/Common/PagesLayout/Inset.jsx";
 import Slideshow from "./Slideshow/Slideshow";
 import Tabbed from "./Tabbed/Tabbed";
+import Calendar from "./Calendar/Calendar";
 
 const Home = () => {
     return (
@@ -13,6 +14,9 @@ const Home = () => {
             <Slideshow />
             <Inset>
                 <Tabbed />
+            </Inset>
+            <Inset>
+                <Calendar />
             </Inset>
         </HomeStyled>
     );
